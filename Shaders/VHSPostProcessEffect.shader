@@ -50,7 +50,7 @@
 				bleed += tex2D(_MainTex, i.uv + float2(0.00, 0)).r;
 				bleed += tex2D(_MainTex, i.uv + float2(0.00, 0.00)).r;
 				bleed += tex2D(_MainTex, i.uv + float2(0.00, 0.00)).r;
-				bleed /= 25;
+				bleed /= 250;
 				
 				if(bleed > 0.1){
 					vhs += fixed4(bleed * _xScanline, 0, 0, 0);
