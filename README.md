@@ -1,6 +1,6 @@
 # unity-vhsglitch
 
-puppet combo uses a modified version of staffantan's vhs shader. i think its neat if i could recreate that.
+A forked version that recreates the look of the modified shader Puppet Combo uses in most of his earlier games.
 
 # original readme
 
